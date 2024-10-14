@@ -2,7 +2,6 @@
 
 namespace App\Controller;
 
-use App\Entity\Location;
 use App\Repository\LocationRepository;
 use App\Repository\MeasurementRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
